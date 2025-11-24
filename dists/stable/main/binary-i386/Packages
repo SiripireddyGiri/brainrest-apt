@@ -1,0 +1,15 @@
+Package: brainrest
+Version: 1.0
+Architecture: all
+Maintainer: Siripireddy Giri <siripireddygirikumar3@gmail.com>
+Filename: ./brainrest_1.0.deb
+Size: 2600
+MD5sum: a51da146c290ff98d5354003390f294d
+SHA1: 96b92f6302e68c0b5056df4ab843cfd224473ffa
+SHA256: 10a44430a66ba71d52dc70d32080d0275d4907ad1609c68c5abd385ce5b922b6
+Section: utils
+Priority: optional
+Description: BrainRest - A small brain exercise tool written in POSIX shell.
+ A simple educational command-line tool with options for word analysis,
+ length checking, random letter generation, and a small quiz.
+
