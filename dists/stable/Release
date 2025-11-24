@@ -1,0 +1,7 @@
+Origin: brainrest
+Label: brainrest
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: brainrest APT repo
